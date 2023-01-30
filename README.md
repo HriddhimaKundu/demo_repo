@@ -1,2 +1,4 @@
 # demo_repo
-just a practice for my first repository in GitHub
+hello!
+This is me Hriddhima Kundu!
+Nice to meet ya!
